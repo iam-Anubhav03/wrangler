@@ -92,3 +92,7 @@ public final class TokenDefinition implements Serializable {
   }
 
 }
+
+
+put("BYTE_SIZE", TokenType.BYTE_SIZE);
+put("TIME_DURATION", TokenType.TIME_DURATION);
